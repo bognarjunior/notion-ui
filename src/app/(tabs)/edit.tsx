@@ -5,7 +5,7 @@ import { styles } from './styles'
 export default function Edit() {
   return (
     <View style={styles.container}>
-      <Text>Edit</Text>
+      <Text style={styles.text}>Edit</Text>
     </View>
   )
 }

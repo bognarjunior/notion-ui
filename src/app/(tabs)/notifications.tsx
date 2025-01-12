@@ -5,7 +5,7 @@ import { styles } from './styles'
 export default function Notifications() {
   return (
     <View style={styles.container}>
-      <Text>Notifications</Text>
+      <Text style={styles.text}>Notifications</Text>
     </View>
   )
 }

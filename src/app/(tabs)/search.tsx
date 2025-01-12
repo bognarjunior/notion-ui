@@ -5,7 +5,7 @@ import { styles } from './styles'
 export default function Search() {
   return (
     <View style={styles.container}>
-      <Text>Search</Text>
+      <Text style={styles.text}>Search</Text>
     </View>
   )
 }
