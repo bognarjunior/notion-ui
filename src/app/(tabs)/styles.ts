@@ -22,5 +22,9 @@ export const styles = StyleSheet.create({
   },
   text: {
     color: colors.White,
+  },
+  contentList: {
+    paddingTop: 24,
+    paddingBottom: 100
   }
 });

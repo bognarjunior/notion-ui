@@ -25,6 +25,7 @@ export default function RecentList({ data }: Props) {
         renderItem={({ item }) => <Recent data={item} />}
         horizontal
         showsHorizontalScrollIndicator={false}
+        contentContainerStyle={styles.content}
       />
     </View>
   )

@@ -12,7 +12,8 @@ export const styles = StyleSheet.create({
     fontSize: 16,
     marginLeft: 20
   },
-  item: {
-    
+  content: {
+    gap: 12,
+    paddingHorizontal: 20
   }
 });
